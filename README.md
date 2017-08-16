@@ -13,8 +13,11 @@ Simply click the Heroku Button and we'll provision this Heroku Events Demo to an
 Clone or Fork this Repo, Modify, and Publish your local code to your Heroku app using:
 
 `git add .`
+
 `git commit -am "Modified version of Heroku Events Demo"`
+
 `git push heroku master`
+
 `heroku open`
 
 ## Contribute
