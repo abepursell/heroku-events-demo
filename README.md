@@ -30,10 +30,8 @@ Clone or Fork this Repo, Modify, and Publish your local code to your Heroku app 
 ## Contact
 
 For Questions on this Repo or Demo, contact
-- David Baliles
-- [dbaliles@salesforce.com](mailto:dbaliles@salesforce.com)
+- [David Baliles](mailto:dbaliles@salesforce.com)
 
 For Heroku Partner Events, contact 
-- Abe Pursell
-- [apursell@salesforce.com](mailto:apursell@salesforce.com)
+- [Abe Pursell](mailto:apursell@salesforce.com)
 
