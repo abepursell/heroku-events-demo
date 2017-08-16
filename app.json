@@ -1,15 +1,8 @@
 {
-  "name": "nycevent",
-  "scripts": {
-  },
-  "env": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-
-  ]
+  "name": "Heroku Event Demo Microsite",
+  "description": "A simple HTML site that can be modified as a Heroku event landing page",
+  "website": "events-demo.herokuapp.com",
+  "logo": "http://heroku-se-toolkit.herokuapp.com/images/enterprise.png",
+  "keywords": ["heroku", "events demo"],
+  "repository": "https://github.com/herokumx/heroku-events-demo"
 }
